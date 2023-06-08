@@ -1,0 +1,12 @@
+github.com/Gerardo115pp/patriot_router v0.0.0-20220703005750-f28396881093 h1:S0gZGuApvhFjhSnEF7XmsPe2cYC/4LA3YcIouMscG1Y=
+github.com/Gerardo115pp/patriot_router v0.0.0-20220703005750-f28396881093/go.mod h1:50vXewOWMfkapHhJWYG5dWVDYS/B1ZGwlHLaEwdOmWw=
+github.com/Gerardo115pp/patriots_lib v0.0.0-20220703070842-c1210d77ac7c h1:DwE0aSWoeuq5rSdPQHEY2QvPzkgXcSJQelp0oGCDoX0=
+github.com/Gerardo115pp/patriots_lib v0.0.0-20220703070842-c1210d77ac7c/go.mod h1:QQUYPU1ilvkEJts5AUi966IGafLJjMRU3G3A2/gHbXA=
+github.com/golang-jwt/jwt v3.2.2+incompatible h1:IfV12K8xAKAnZqdXVzCZ+TOjboZ2keLg81eXfW3O+oY=
+github.com/golang-jwt/jwt v3.2.2+incompatible/go.mod h1:8pz2t5EyA70fFQQSrl6XZXzqecmYZeUEB8OUGHkxJ+I=
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/mattn/go-sqlite3 v1.14.14 h1:qZgc/Rwetq+MtyE18WhzjokPD93dNqLGNT3QJuLvBGw=
+github.com/mattn/go-sqlite3 v1.14.14/go.mod h1:NyWgC/yNuGj7Q9rpYnZvas74GogHl5/Z4A/KQRfk6bU=
+golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d h1:sK3txAijHtOK88l68nt020reeT1ZdKLIYetKl95FzVY=
+golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d/go.mod h1:IxCIyHEi3zRg3s0A5j5BB6A9Jmi73HwBIUl50j+osU4=

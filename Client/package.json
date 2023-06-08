@@ -1,0 +1,45 @@
+{
+  "name": "meli_mvp_ui",
+  "version": "1.0.0",
+  "description": "Meli scrapper ui for meliScrapper MVP",
+  "main": "./src/index.js",
+  "scripts": {
+    "expose": "webpack serve  --open --mode development --host 'libery-dev.com'",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gerardo115pp/meliScrapper.git"
+  },
+  "author": "defalt <theronin115@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gerardo115pp/meliScrapper/issues"
+  },
+  "homepage": "https://github.com/Gerardo115pp/meliScrapper#readme",
+  "dependencies": {
+    "@babel/plugin-transform-runtime": "^7.18.2",
+    "@ecwid/sdk": "^0.2.0",
+    "flag-icons": "^6.4.5",
+    "js-cookie": "^3.0.1",
+    "svelte": "^3.48.0",
+    "svelte-carousel": "^1.0.19",
+    "svelte-chartjs": "^1.1.4",
+    "svelte-flagpack": "^1.0.0",
+    "svelte-spa-router": "^3.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.18.2",
+    "@babel/preset-env": "^7.18.2",
+    "babel-loader": "^8.2.5",
+    "copy-webpack-plugin": "^11.0.0",
+    "core-js": "^3.22.7",
+    "html-webpack-plugin": "^5.5.0",
+    "svelte-calendar": "^3.1.6",
+    "svelte-loader": "^3.1.2",
+    "svg-inline-loader": "^0.8.2",
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.9.0"
+  }
+}

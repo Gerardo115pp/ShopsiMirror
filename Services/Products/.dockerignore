@@ -1,0 +1,5 @@
+static/
+excel_sheets/
+.vscode/
+__pycache__/
+mysql/
